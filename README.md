@@ -1,4 +1,4 @@
-Regressão Múltipla
+# Regressão Múltipla
 
 Extensão natural da regressão linear simples: ao invés de uma variável de entrada, aqui o modelo lida com múltiplas features ao mesmo tempo para fazer a previsão.
 
